@@ -1,0 +1,12 @@
+/Users/daniel.tran/katas/MagicYearCalculator/MagicYearCalculator/bin/Debug/net5.0/MagicYearCalculator.deps.json
+/Users/daniel.tran/katas/MagicYearCalculator/MagicYearCalculator/bin/Debug/net5.0/MagicYearCalculator.dll
+/Users/daniel.tran/katas/MagicYearCalculator/MagicYearCalculator/bin/Debug/net5.0/ref/MagicYearCalculator.dll
+/Users/daniel.tran/katas/MagicYearCalculator/MagicYearCalculator/bin/Debug/net5.0/MagicYearCalculator.pdb
+/Users/daniel.tran/katas/MagicYearCalculator/MagicYearCalculator/obj/Debug/net5.0/MagicYearCalculator.csprojAssemblyReference.cache
+/Users/daniel.tran/katas/MagicYearCalculator/MagicYearCalculator/obj/Debug/net5.0/MagicYearCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.tran/katas/MagicYearCalculator/MagicYearCalculator/obj/Debug/net5.0/MagicYearCalculator.AssemblyInfoInputs.cache
+/Users/daniel.tran/katas/MagicYearCalculator/MagicYearCalculator/obj/Debug/net5.0/MagicYearCalculator.AssemblyInfo.cs
+/Users/daniel.tran/katas/MagicYearCalculator/MagicYearCalculator/obj/Debug/net5.0/MagicYearCalculator.csproj.CoreCompileInputs.cache
+/Users/daniel.tran/katas/MagicYearCalculator/MagicYearCalculator/obj/Debug/net5.0/MagicYearCalculator.dll
+/Users/daniel.tran/katas/MagicYearCalculator/MagicYearCalculator/obj/Debug/net5.0/ref/MagicYearCalculator.dll
+/Users/daniel.tran/katas/MagicYearCalculator/MagicYearCalculator/obj/Debug/net5.0/MagicYearCalculator.pdb
